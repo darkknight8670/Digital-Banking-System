@@ -1,0 +1,22 @@
+# Java / Maven
+**/target/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment / local artifacts
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+digital-banking.zip
